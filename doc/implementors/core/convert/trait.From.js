@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["mio"] = [{"text":"impl From&lt;ChildStdin&gt; for Sender","synthetic":false,"types":[]},{"text":"impl From&lt;ChildStdout&gt; for Receiver","synthetic":false,"types":[]},{"text":"impl From&lt;ChildStderr&gt; for Receiver","synthetic":false,"types":[]},{"text":"impl From&lt;Token&gt; for usize","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
